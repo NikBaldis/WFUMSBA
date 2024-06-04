@@ -1,0 +1,151 @@
+ID,DemAffl,DemAge,DemCluster,DemClusterGroup,DemGender,DemReg,DemTVReg,PromClass,PromSpend,PromTime
+1,6,46,27,D,F,South East,London,Tin,0.01,8
+2,10,39,12,B,M,Midlands,Ulster,Tin,0.01,5
+3,7,75,12,B,M,Midlands,East,Silver,4000,7
+4,7,72,12,B,F,Midlands,Ulster,Silver,1250,23
+5,7,43,53,F,M,North,N West,Tin,0.01,5
+6,7,62,24,C,F,Midlands,Wales & West,Gold,20000,4
+7,8,37,5,B,M,South West,S West,Silver,1000,9
+8,9,49,48,F,F,South East,London,Tin,0.01,8
+9,8,79,32,D,F,North,N East,Gold,6000,1
+10,3,51,50,F,M,Midlands,East,Tin,0.01,4
+11,3,50,35,D,F,Midlands,East,Gold,9800,3
+12,5,66,28,D,M,South East,London,Tin,0.01,11
+13,15,35,19,C,F,Midlands,Wales & West,Silver,1630,5
+14,2,51,24,C,U,North,Yorkshire,Gold,10000,5
+15,3,66,18,C,F,Midlands,Midlands,Gold,15000,1
+16,10,60,12,B,M,North,N West,Silver,1020,9
+17,9,48,19,C,M,Midlands,East,Silver,3000,2
+18,8,53,24,C,F,South East,S & S East,Silver,100,1
+19,10,72,45,E,U,Midlands,Midlands,Gold,12000,8
+20,9,68,41,E,F,South East,London,Tin,0.01,7
+21,8,47,1,A,F,Scottish,N Scot,Tin,0.01,5
+22,11,39,40,E,F,South East,London,Silver,2800,1
+23,12,72,4,A,F,South East,London,Tin,0.01,8
+24,10,67,40,E,M,South East,London,Gold,6000,4
+25,9,60,25,C,F,South East,London,Tin,0.01,8
+26,6,34,30,D,M,North,Yorkshire,Gold,9000,3
+27,11,52,52,F,M,North,N West,Tin,0.01,9
+28,7,55,27,D,F,Midlands,Midlands,Tin,0.01,8
+29,14,65,12,B,M,South East,S & S East,Gold,6053.35,6
+30,13,41,12,B,M,South East,London,Tin,0.01,7
+31,16,34,28,D,F,Midlands,East,Silver,3000,3
+32,6,40,32,D,F,North,N West,Silver,1500,7
+33,9,35,53,F,F,South East,London,Tin,0.01,4
+34,7,50,10,B,M,North,Yorkshire,Silver,5000,10
+35,6,62,1,A,M,North,N West,Silver,3000,29
+36,7,62,51,F,M,North,Yorkshire,Tin,0.01,10
+37,9,60,16,C,M,Midlands,East,Gold,8100,5
+38,8,49,14,B,F,North,N West,Gold,7600,4
+39,6,57,53,F,M,Midlands,Midlands,Silver,2000,8
+40,7,52,51,F,U,Midlands,Midlands,Platinum,23053.35,6
+41,6,75,52,F,M,Scottish,C Scotland,Gold,10000,17
+42,15,55,37,E,U,Midlands,Midlands,Gold,10000,6
+43,5,57,51,F,F,Midlands,Midlands,Gold,12000,1
+44,8,52,22,C,F,North,N West,Silver,2500,6
+45,12,74,3,A,F,Midlands,East,Gold,6000,5
+46,9,79,28,D,F,South East,London,Silver,5000,5
+47,6,48,32,D,U,North,Yorkshire,Silver,420,4
+48,11,60,41,E,U,South East,London,Tin,0.01,8
+49,3,38,53,F,F,North,N West,Silver,50,9
+50,9,58,10,B,F,North,N West,Silver,5000,5
+51,4,52,30,D,M,Midlands,Wales & West,Silver,1800,4
+52,3,45,47,F,F,North,Yorkshire,Silver,100.01,9
+53,9,42,51,F,F,North,N West,Silver,2000,4
+54,10,40,51,F,U,Midlands,Midlands,Silver,50,10
+55,5,55,35,D,M,Midlands,Midlands,Gold,10100,8
+56,8,77,23,C,M,Midlands,Midlands,Gold,6000,3
+57,11,27,19,C,F,South East,London,Tin,0.01,7
+58,4,60,37,E,F,North,N West,Tin,0.01,8
+59,7,58,4,A,U,South East,London,Silver,2500,5
+60,7,54,5,B,M,Midlands,Midlands,Tin,0.01,5
+61,7,42,32,D,M,North,N West,Tin,0.01,4
+62,10,36,48,F,F,South East,London,Silver,1000,9
+63,6,28,41,E,F,South East,London,Gold,5500,1
+64,4,57,31,D,F,South East,London,Tin,0.01,5
+65,10,72,18,C,F,Midlands,Midlands,Gold,11105.32,8
+66,10,67,17,C,F,Midlands,East,Tin,0.01,6
+67,7,37,51,F,F,North,N West,Tin,0.01,5
+68,9,76,51,F,F,Midlands,East,Silver,2000,8
+69,6,45,34,D,F,North,N West,Tin,0.01,5
+70,14,35,19,C,F,South East,S & S East,Gold,10000,8
+71,6,27,30,D,F,South East,S & S East,Silver,5,7
+72,5,72,12,B,U,South East,London,Platinum,32050,12
+73,9,70,31,D,F,South East,London,Gold,6000,8
+74,7,55,51,F,F,Midlands,Wales & West,Tin,0.01,2
+75,7,51,38,E,M,North,N West,Tin,0.01,10
+76,9,31,52,F,F,North,N West,Silver,1064.45,1
+77,10,58,51,F,F,Midlands,Wales & West,Silver,3000.01,8
+78,10,73,38,E,F,Midlands,Wales & West,Tin,0.01,6
+79,7,38,51,F,F,South East,London,Silver,4500,4
+80,7,71,1,A,F,South East,London,Silver,2000,3
+81,22,50,22,C,M,South East,London,Silver,3000,6
+82,9,45,12,B,U,Midlands,Wales & West,Silver,2000,4
+83,6,51,22,C,F,Midlands,Midlands,Silver,3500,27
+84,10,33,35,D,F,Midlands,Wales & West,Tin,0.01,8
+85,6,67,1,A,U,Midlands,Midlands,Silver,5000,4
+86,5,78,15,B,M,South East,S & S East,Silver,3000,8
+87,8,64,2,A,F,South East,London,Gold,20000,4
+88,9,50,52,F,F,South East,London,Silver,5000,4
+89,8,76,37,E,U,North,N West,Gold,6000,15
+90,5,41,50,F,F,South East,London,Gold,6000,3
+91,12,50,31,D,M,Scottish,C Scotland,Tin,0.01,7
+92,13,54,2,A,F,South West,S West,Gold,12078.35,30
+93,13,45,14,B,F,South East,S & S East,Silver,3000,8
+94,4,72,10,B,F,South East,London,Silver,50.01,13
+95,7,41,53,F,M,North,N West,Tin,0.01,9
+96,10,59,13,B,M,South East,S & S East,Silver,780,2
+97,9,68,23,C,F,Midlands,Midlands,Silver,4000,5
+98,9,66,35,D,M,Scottish,C Scotland,Silver,2000,9
+99,5,52,6,B,M,North,Yorkshire,Tin,0.01,11
+100,8,73,12,B,M,Midlands,Ulster,Gold,6000,6
+101,6,45,50,F,U,North,N West,Silver,300,9
+102,9,48,30,D,F,South East,S & S East,Tin,0.01,5
+103,6,60,6,B,F,South East,S & S East,Tin,0.01,5
+104,7,57,12,B,F,South East,London,Tin,0.01,8
+105,11,56,23,C,F,Midlands,East,Gold,6105.32,7
+106,26,31,44,E,F,Midlands,Midlands,Tin,0.01,4
+107,12,40,30,D,F,South West,S West,Tin,0.01,4
+108,9,55,26,C,M,South East,London,Tin,0.01,11
+109,8,61,17,C,M,Midlands,Midlands,Silver,3250,6
+110,6,41,27,D,F,South East,London,Gold,10000,5
+111,9,68,2,A,M,South East,London,Silver,4250,4
+112,14,47,21,C,F,South East,London,Tin,0.01,8
+113,3,70,24,C,F,Midlands,Wales & West,Silver,3000,11
+114,10,40,7,B,M,South East,London,Silver,1000,13
+115,10,57,47,F,M,Midlands,Midlands,Tin,0.01,4
+116,11,54,12,B,F,Scottish,C Scotland,Silver,360,9
+117,2,34,8,B,F,Midlands,Midlands,Silver,3178.9,5
+118,9,44,13,B,F,South East,London,Gold,6053.35,5
+119,6,57,35,D,M,North,Yorkshire,Silver,0.02,8
+120,5,59,19,C,U,Midlands,Midlands,Silver,50.02,8
+121,9,60,35,D,U,Scottish,N Scot,Gold,8000,14
+122,13,45,52,F,F,Scottish,N Scot,Tin,0.01,4
+123,9,40,37,E,F,South East,London,Tin,0.01,6
+124,9,22,12,B,F,North,N West,Silver,1000,3
+125,10,73,4,A,M,South East,London,Silver,5000,27
+126,10,44,20,C,U,South East,S & S East,Tin,0.01,5
+127,7,65,12,B,M,South East,London,Silver,1526.91,5
+128,5,50,8,B,M,Midlands,Wales & West,Tin,0.01,4
+129,8,76,46,F,F,South East,S & S East,Silver,1000,3
+130,7,61,4,A,M,South East,London,Tin,0.01,5
+131,7,52,41,E,F,South East,London,Tin,0.01,9
+132,9,48,33,D,F,Midlands,Midlands,Gold,6000,2
+133,9,47,28,D,M,Midlands,Midlands,Tin,0.01,4
+134,7,57,15,B,F,Midlands,Midlands,Silver,2000,1
+135,10,61,35,D,F,North,N West,Silver,3000,3
+136,8,55,45,E,M,South West,S West,Silver,4000,8
+137,10,52,47,F,U,Scottish,C Scotland,Tin,0.01,5
+138,7,68,52,F,F,Midlands,Wales & West,Tin,0.01,9
+139,5,76,23,C,F,North,Yorkshire,Gold,6000,3
+140,11,47,3,A,M,Scottish,C Scotland,Silver,1200,11
+141,9,66,38,E,M,Midlands,Wales & West,Gold,6000,2
+142,12,60,19,C,F,Midlands,Midlands,Gold,9604.34,4
+143,8,49,25,C,M,South East,S & S East,Tin,0.01,20
+144,9,67,33,D,F,South East,London,Gold,10000,5
+145,4,53,20,C,M,South East,London,Silver,1070,9
+146,3,59,12,B,F,Midlands,East,Gold,12000,4
+147,8,69,16,C,M,South East,London,Gold,14400,8
+158,7,27,52,F,F,South East,London,Tin,0.01,4
+149,10,63,14,B,M,South East,London,Silver,3000,7
+150,18,41,35,D,F,North,N East,Tin,0.01,5
